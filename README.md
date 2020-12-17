@@ -18,14 +18,6 @@ En cuanto al contenido del repositorio, encontramos:
 
 El proyecto se ha creado utilizando la interfaz gráfica de Java [Swing](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html), siendo la ventana principal del programa el acceso al resto de la aplicación, en dónde si accedemos al menú *ALTAS RESERVAS* encontraremos una ventana diálogo con los diferentes paneles creados para el panel.
 
-<img src="C:\Users\stanl\AppData\Roaming\Typora\typora-user-images\image-20201217094623897.png" alt="Ventana principal del proyecto" title="Ventana principal del proyecto" style="zoom:67%;" />
-
-
-
-<img src="C:\Users\stanl\AppData\Roaming\Typora\typora-user-images\image-20201217094737832.png" alt="Ventana diálogo de Altas Reservas" title="Ventana diálogo de Altas Reservas" style="zoom: 50%;" />
-
-
-
 ### Despliegue del proyecto
 
 #### Despliegue en Windows
